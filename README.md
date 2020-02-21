@@ -1,4 +1,4 @@
-# blochain-php
+# blockchain-php
 Exemplificação simples do funcionamento do blockchain usando PHP
 
 
